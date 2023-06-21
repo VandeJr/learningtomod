@@ -4,6 +4,7 @@ import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import vandejr.learningtomod.block.ModBlocks;
 import vandejr.learningtomod.item.ModItemGroup;
 import vandejr.learningtomod.item.ModItems;
 
@@ -19,5 +20,6 @@ public class LearningToMod implements ModInitializer {
 
 		ModItems.registerModItems();
 		ModItemGroup.registerItemGroups();
+		ModBlocks.registerModBlocks();
 	}
 }

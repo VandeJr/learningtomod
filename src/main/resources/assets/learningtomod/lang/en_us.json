@@ -2,5 +2,10 @@
   "itemgroup.citrine": "Citrine",
 
   "item.learningtomod.citrine": "Citrine",
-  "item.learningtomod.raw_citrine": "Raw Citrine"
+  "item.learningtomod.raw_citrine": "Raw Citrine",
+
+  "block.learningtomod.citrine_block": "Block of Citrine",
+  "block.learningtomod.citrine_ore": "Citrine Ore",
+  "block.learningtomod.deepslate_citrine_ore": "Deepslate Citrine Ore "
+
 }
