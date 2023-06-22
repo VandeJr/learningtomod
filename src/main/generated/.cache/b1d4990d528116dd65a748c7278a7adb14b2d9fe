@@ -1,3 +1,5 @@
-// 1.20.1	2023-06-21T21:20:54.201771427	LearningToMod/learningtomod
+// 1.20.1	2023-06-21T21:56:18.823573944	LearningToMod/learningtomod
+a6c8b44b1a24436b89ee068ee650f57ff2ffadec data/learningtomod/worldgen/configured_feature/citrine_ore.json
 db81c78e7df1f57a3d306a4e5df0babcc2e38c9f data/learningtomod/worldgen/configured_feature/red_maple.json
+1112a60cf2ef8953f50572e48ef4bfc621ccc672 data/learningtomod/worldgen/placed_feature/citrine_ore_placed.json
 f9fd3e31843d6c7809f96a49a3af2c74db32c68d data/learningtomod/worldgen/placed_feature/red_maple_placed.json

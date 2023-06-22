@@ -1,4 +1,4 @@
-// 1.20.1	2023-06-21T21:20:54.200389807	LearningToMod/Model Definitions
+// 1.20.1	2023-06-21T21:56:18.822442633	LearningToMod/Model Definitions
 11ca65fbcd5f09d4d61e74f93a20a137dc6b9c99 assets/learningtomod/models/item/red_maple_leaves.json
 73f203a12d5493270ca0f688d1cf7dc453f46db0 assets/learningtomod/blockstates/red_maple_leaves.json
 bcf4f4f782e86e9379cb293e9186ecc521198831 assets/learningtomod/models/item/red_maple_planks.json
@@ -18,8 +18,8 @@ d9f303804044b7329fabfc1828f1c8e0e325b32f assets/learningtomod/models/block/red_m
 4a547014041055e107e40017551c0f7370713645 assets/learningtomod/blockstates/citrine_ore.json
 c111af3966312a05ca49e881318d8e4dea40c192 assets/learningtomod/models/block/red_maple_wood.json
 c50d96993203c3f5cd5cebfa2b38c2361d14bbdb assets/learningtomod/models/block/red_maple_leaves.json
-4ed83eeb989d82d80e8205129045c7b3a607dc1a assets/learningtomod/models/item/red_maple_log.json
 05e99c8e08ebd6d1f0136d9c147f63d97a31778e assets/learningtomod/blockstates/citrine_block.json
+4ed83eeb989d82d80e8205129045c7b3a607dc1a assets/learningtomod/models/item/red_maple_log.json
 4830cf1ed3b01db4b3c907f669719d465720a5a7 assets/learningtomod/blockstates/red_maple_wood.json
 b5c00824a6f23d5a322a4a293cc7b33d5ad9a6f6 assets/learningtomod/models/item/red_maple_wood.json
 23aaabd8a2b0c2ea0513c454a800a00930a6d115 assets/learningtomod/models/block/red_maple_planks.json
