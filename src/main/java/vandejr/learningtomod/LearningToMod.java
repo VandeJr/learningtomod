@@ -5,8 +5,10 @@ import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import vandejr.learningtomod.block.ModBlocks;
+import vandejr.learningtomod.data.ModWorldGenerator;
 import vandejr.learningtomod.item.ModItemGroup;
 import vandejr.learningtomod.item.ModItems;
+import vandejr.learningtomod.world.gen.ModWorldGeneration;
 
 public class LearningToMod implements ModInitializer {
 	public static final String MOD_ID = "learningtomod";
@@ -21,5 +23,8 @@ public class LearningToMod implements ModInitializer {
 		ModItems.registerModItems();
 		ModItemGroup.registerItemGroups();
 		ModBlocks.registerModBlocks();
+		ModWorldGeneration.generateModWorldGen();;
+
+
 	}
 }

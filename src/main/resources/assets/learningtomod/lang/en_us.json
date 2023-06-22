@@ -6,6 +6,13 @@
 
   "block.learningtomod.citrine_block": "Block of Citrine",
   "block.learningtomod.citrine_ore": "Citrine Ore",
-  "block.learningtomod.deepslate_citrine_ore": "Deepslate Citrine Ore "
+  "block.learningtomod.deepslate_citrine_ore": "Deepslate Citrine Ore",
 
+  "block.learningtomod.red_maple_log": "Red Maple Log",
+  "block.learningtomod.red_maple_wood": "Red Maple Wood",
+  "block.learningtomod.stripped_red_maple_log": "Stripped Red Maple Log",
+  "block.learningtomod.stripped_red_maple_wood": "Stripped Red Maple Wood",
+  "block.learningtomod.red_maple_planks": "Red Maple Planks",
+  "block.learningtomod.red_maple_leaves": "Red Maple Leaves",
+  "block.learningtomod.red_maple_sapling": "Red Maple Sapling"
 }

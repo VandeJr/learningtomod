@@ -24,6 +24,14 @@ public class ModItemGroup {
                         entries.add(ModBlocks.CITRINE_BLOCK);
                         entries.add(ModBlocks.CITRINE_ORE);
                         entries.add(ModBlocks.DEEPSLATE_CITRINE_ORE);
+
+                        entries.add(ModBlocks.RED_MAPLE_LOG);
+                        entries.add(ModBlocks.RED_MAPLE_WOOD);
+                        entries.add(ModBlocks.RED_MAPLE_PLANKS);
+                        entries.add(ModBlocks.RED_MAPLE_SAPLING);
+                        entries.add(ModBlocks.STRIPPED_RED_MAPLE_LOG);
+                        entries.add(ModBlocks.STRIPPED_RED_MAPLE_WOOD);
+                        entries.add(ModBlocks.RED_MAPLE_LEAVES);
                     })
                     .build());
 
